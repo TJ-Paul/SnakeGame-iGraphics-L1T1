@@ -1,0 +1,9 @@
+H3LLO,
+I'm Turjjo (TJ), and I’m thrilled to share my first-ever game development project for the CSE-102 course!
+
+Growing up, I spent hours playing the classic snake game on Nokia feature phones. So, when we were given the freedom to choose our own project, the decision was instant—I had to recreate the SNAKE GAME✨.
+
+This game was developed using the iGraphics library.
+It was an exciting journey of learning and implementing new concepts, filled with challenges. A huge shoutout to my classmates and roommates (EUCSU- 102 sheraa) for their support and creative ideas <33.
+
+I hope you enjoy playing the game as much as I enjoyed building it!

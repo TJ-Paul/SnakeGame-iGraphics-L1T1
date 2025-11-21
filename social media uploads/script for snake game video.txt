@@ -1,0 +1,24 @@
+show code (scroll)
+build and run
+instructions 
+
+settings
+music on/ off feature 
+esc back
+
+play
+progress to level 2
+show pause 
+pause button
+pause menu
+progress to level 3
+die
+
+settings 
+level 2
+score 5 pts
+die
+
+enter name
+leaderboard
+exit
